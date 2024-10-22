@@ -1,0 +1,7 @@
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\obj\Debug\PrimeCheck.csproj.AssemblyReference.cache
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\obj\Debug\PrimeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\obj\Debug\PrimeCheck.exe
+C:\Users\Harshvardhan Gupta\source\repos\PrimeCheck\obj\Debug\PrimeCheck.pdb
